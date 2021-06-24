@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Choices</string>
+    <string name="question1">Which of these is the slowest animal in the world</string>
+    <string name="question2">Pick the Birds that cannot fly</string>
+    <string name="question5">What is a female Swan called?</string>
+    <string name="question4">What color is a Giraffe\'s tongue?</string>
+    <string name="question3">What is the fastest land animal in the world?</string>
+    <string name="instruction">Test your knowledge about Animals!!</string>
+    <string name="heading">Choices</string>
+    <string name="question1Ans1">Turtle</string>
+    <string name="question1Ans2">Sloth</string>
+    <string name="question1Ans3">Snail</string>
+    <string name="question2Ans3">Kiwi</string>
+    <string name="question2Ans2">Penguin</string>
+    <string name="question2Ans1">Ostrich</string>
+    <string name="question4Ans1">Pen</string>
+    <string name="question4Ans2">Queen</string>
+    <string name="question4Ans3">Goose</string>
+    <string name="submitButton">Submit</string>
+    <string name="resetButton">Reset</string>
+</resources>
