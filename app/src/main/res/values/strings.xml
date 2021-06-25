@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">Choices</string>
-    <string name="question1">Which of these is the slowest animal in the world</string>
-    <string name="question2">Pick the Birds that cannot fly</string>
-    <string name="question5">What is a female Swan called?</string>
-    <string name="question4">What color is a Giraffe\'s tongue?</string>
-    <string name="question3">What is the fastest land animal in the world?</string>
+    <string name="question1">1. Which of these is the slowest animal in the world</string>
+    <string name="question2">2. Pick the Birds that cannot fly</string>
+    <string name="question5">5. What is a female Swan called?</string>
+    <string name="question4">4. What color is a Giraffe\'s tongue?</string>
+    <string name="question3">3. What is the fastest land animal in the world?</string>
+    <string name="question6">6. Which of these is the fastest bird in the world</string>
+    <string name="question7">7. Which bird can fly backwards?</string>
+    <string name="question8">8. What is the collective term for a group of lions?</string>
+    <string name="question9">9. Which bird\'s eye is bigger than its brain?</string>
+    <string name="question10">10. What is the collective term for a group of elephants? </string>
     <string name="instruction">Test your knowledge about Animals!!</string>
     <string name="heading">Choices</string>
     <string name="question1Ans1">Turtle</string>
@@ -18,4 +23,16 @@
     <string name="question4Ans3">Goose</string>
     <string name="submitButton">Submit</string>
     <string name="resetButton">Reset</string>
+    <string name="question6Ans1">Peregrine Falcon</string>
+    <string name="question6Ans2">Golden Eagle</string>
+    <string name="question6Ans3">Harpy Eagle</string>
+    <string name="question7Ans1">Parrot</string>
+    <string name="question7Ans2">Humming Bird</string>
+    <string name="question7Ans3">Finch</string>
+    <string name="question8Ans1">A Murder</string>
+    <string name="question8Ans2">A Pride</string>
+    <string name="question8Ans3">A Pack</string>
+    <string name="question10Ans1">A Parliament</string>
+    <string name="question10Ans2">A Tower</string>
+    <string name="question10Ans3">A Parade</string>
 </resources>
